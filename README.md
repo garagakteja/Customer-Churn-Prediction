@@ -12,3 +12,5 @@ The Project can be further divided into the following stages :
 
 [Platform - Jupyter - Python : NumPy, Pandas, Scikit-Learn]
 [Metric Used - Area Under curve(AUC)]
+
+Kaggle Leaderboard Rank : Top 4th/36 Teams.
